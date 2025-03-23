@@ -25,7 +25,7 @@ Journey Platform é um projeto dedicado a ajudar pessoas com transtornos mentais
 ## Como Contribuir
 1. Clone o repositório:  
    ```sh
-   git clone https://github.com/seu-usuario/journey-platform.git
+   git clone https://github.com/AlexRodrigues-web/journey-platform.git
    ```
 2. Instale as dependências:  
    ```sh
