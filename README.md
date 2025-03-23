@@ -39,7 +39,4 @@ Journey Platform é um projeto dedicado a ajudar pessoas com transtornos mentais
 ## Contato
 Para mais informações ou sugestões, entre em contato.
 
----
-
-Se precisar de ajustes, me avise! 🚀
 
